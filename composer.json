@@ -1,5 +1,5 @@
 {
-    "name": "asgardcms/contact",
+    "name": "pmixsolutions/contact",
     "description": "",
     "type": "asgard-module",
     "license": "MIT",
@@ -23,8 +23,8 @@
     "prefer-stable": true,
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "pmixsolutions",
+            "email": "pmixsolutions@gmail.com"
         }
     ],
     "autoload": {
